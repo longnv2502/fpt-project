@@ -1,0 +1,103 @@
+﻿<UserControl x:Class="HostelWPFApp.Layout.CustomerFormDialog"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HostelWPFApp.Layout"
+             xmlns:uc="clr-namespace:HostelWPFApp.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="760" d:DesignWidth="1100">
+    <Grid VerticalAlignment="Center" >
+        <!--Background Layers-->
+        <Border CornerRadius="7 0 0 0" Background="#F7F8FB" Height="50" Margin="40 -30 60 0" VerticalAlignment="Top"/>
+        <Border CornerRadius="7 0 0 0" Background="#FDFDFD" Height="50" Margin="20 -15 60 0" VerticalAlignment="Top"/>
+
+        <!--Main Layer-->
+        <Border CornerRadius="7" Background="#ffffff" >
+            <Border.Effect>
+                <DropShadowEffect Direction="-130" BlurRadius="30" ShadowDepth="5" Opacity="0.1"/>
+            </Border.Effect>
+
+            <Grid Margin="20 0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <!--Form Title-->
+                <StackPanel Orientation="Horizontal" Margin="20 20 0 0">
+                    <Border CornerRadius="50" BorderThickness="1.5" BorderBrush="#EFEFEF">
+                        <Ellipse Width="40" Height="40">
+                            <Ellipse.Fill>
+                                <ImageBrush/>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                    </Border>
+
+                    <TextBlock Text="Customer Forms" Foreground="#374655" FontSize="18" Margin="15 0 0 0" VerticalAlignment="Center"/>
+                </StackPanel>
+
+                <!--Form Percentage-->
+                <StackPanel Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right" Margin="0 20 20 0">
+                    <Border Width="30" Height="30" CornerRadius="50" BorderThickness="3" ClipToBounds="True">
+                        <Border.BorderBrush>
+                            <LinearGradientBrush>
+                                <GradientStop Color="#4880FF" Offset="0"/>
+                                <GradientStop Color="#EFEFEF" Offset="0.4"/>
+                            </LinearGradientBrush>
+                        </Border.BorderBrush>
+                    </Border>
+
+                    <StackPanel Margin="10 0 0 0" VerticalAlignment="Center">
+                        <TextBlock Text="10%" Foreground="#4880FF" FontSize="14" FontWeight="SemiBold" />
+                        <TextBlock Text="Customer Completion" Foreground="#97A5B4" Margin="0 2 0 0"/>
+                    </StackPanel>
+                </StackPanel>
+
+                <Separator Grid.Row="1" Grid.ColumnSpan="2" Height="0.7" Margin="-20 20 -20 20" Background="#E1E6EB"/>
+
+                <!--Inputs-->
+            
+                <uc:MyTextBox x:Name="nameText" Grid.Column="0" Grid.Row="1" Caption="Name of Customer" Hint="Name" Text="{Binding Path=Customer.Name, Mode=TwoWay}" ></uc:MyTextBox>
+                <uc:MyTextBox x:Name="phoneText" Grid.Column="0" Grid.Row="2" Caption="Phone of Customer" Hint="Phone" Text="{Binding Path=Customer.Phone, Mode=TwoWay}" ></uc:MyTextBox>
+                <uc:MyDatePicker x:Name="birthdateDatePicker" Grid.Column="0" Grid.Row="3" Caption="Birthdate of Customer" Hint="Choose birthdate of Customer" SelectedDate="{Binding Path=Customer.Birthdate, Mode=TwoWay}"></uc:MyDatePicker>
+                <uc:MyTextBox x:Name="cardText" Grid.Column="0" Grid.Row="4" Caption="Card of Customer" Hint="CardId" Text="{Binding Path=Customer.CardId, Mode=TwoWay}" ></uc:MyTextBox>
+                <uc:MyComboBox x:Name="roleComboBox" Grid.Column="0" Grid.Row="5" Caption="Role of Customer" Hint="Choose role of Customer" ItemsSource="{Binding Path=RoleList}" SelectedValue="{Binding Path=Customer.Role, Mode=TwoWay}"></uc:MyComboBox>
+                <uc:MyComboBox x:Name="genderComboBox" Grid.Column="1" Grid.Row="1" Caption="Gender of Customer" Hint="Choose gender of Customer" DisplayMemberPath="Name" ItemsSource="{Binding Path=GenderList}" SelectedValue="{Binding Path=Gender, Mode=TwoWay}"></uc:MyComboBox>
+                <uc:MyTextBox x:Name="usernameText" Grid.Column="1" Grid.Row="2" Caption="Username of Customer" Hint="Username" Text="{Binding Path=Customer.Username, Mode=TwoWay}" ></uc:MyTextBox>
+                <uc:MyTextBox x:Name="passwordText" Grid.Column="1" Grid.Row="3" Caption="Password of Customer" Hint="Password" Text="{Binding Path=Customer.Password, Mode=TwoWay}" ></uc:MyTextBox>
+                <uc:MyTextBox x:Name="addressText" Grid.Column="1" Grid.Row="4" Caption="Address of Customer" Hint="Address" Text="{Binding Path=Customer.Address, Mode=TwoWay}" ></uc:MyTextBox>
+
+                <!--Form Bottom Background-->
+                <Border Grid.Row="6" Grid.ColumnSpan="2" Height="80" Background="#f6f6f6" CornerRadius="0 0 10 10" Margin="-20 40 -20 0"/>
+
+                <!--Main Button-->
+                <Button Grid.Column="1" Grid.Row="6" Content="Save Next" Command="{Binding Path=SaveCommand}" HorizontalAlignment="Right" Margin="0 40 20 0" Style="{StaticResource MainButton}">
+                    <Button.Effect>
+                        <DropShadowEffect Direction="-120" BlurRadius="10" Opacity="0.3" ShadowDepth="5" Color="#4880FF"/>
+                    </Button.Effect>
+                </Button>
+
+                <!--Secondary Button-->
+                <Button Grid.Row="6" Content="Back" 
+                        Command="{x:Static materialDesign:DialogHost.CloseDialogCommand}"
+                        CommandParameter="{x:Static MessageBoxResult.Cancel}"
+                        HorizontalAlignment="Left" 
+                        Margin="20 40 0 0" 
+                        Style="{StaticResource SecondaryButton}" Width="150"/>
+
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

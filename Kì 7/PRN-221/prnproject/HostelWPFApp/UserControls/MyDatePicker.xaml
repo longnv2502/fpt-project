@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="HostelWPFApp.UserControls.MyDatePicker"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HostelWPFApp.UserControls"
+             mc:Ignorable="d" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             d:DesignWidth="200" d:Background="White" Name="myDatePicker">
+    <StackPanel Margin="20 10">
+        <TextBlock Text="{Binding Path=Caption,ElementName=myDatePicker}" Foreground="#97A5B4" FontSize="13" Margin="4 0 0 12"/>
+        <DatePicker
+            Name="datePickerField"
+            SelectedDate="{Binding Path=SelectedDate,ElementName=myDatePicker}"
+            materialDesign:HintAssist.Hint="{Binding Path=Hint,ElementName=myDatePicker}"
+            Style="{StaticResource MaterialDesignOutlinedDatePicker}" />
+    </StackPanel>
+</UserControl>

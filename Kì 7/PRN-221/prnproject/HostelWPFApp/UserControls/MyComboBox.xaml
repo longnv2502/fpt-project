@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="HostelWPFApp.UserControls.MyComboBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HostelWPFApp.UserControls"
+             mc:Ignorable="d" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             d:DesignWidth="200" d:Background="White" Name="myComboBox">
+    <StackPanel Margin="20 10">
+        <TextBlock Text="{Binding Path=Caption,ElementName=myComboBox}" Foreground="#97A5B4" FontSize="13" Margin="4 0 0 12"/>
+        <ComboBox
+            Name="comboBoxField"
+            materialDesign:HintAssist.Hint="{Binding Path=Hint,ElementName=myComboBox}"
+            SelectedValue="{Binding Path=SelectedValue, ElementName=myComboBox}"
+            DisplayMemberPath="{Binding Path=DisplayMemberPath, ElementName=myComboBox}"
+            Style="{StaticResource MaterialDesignOutlinedComboBox}"
+            ItemsSource="{Binding Path=ItemsSource, ElementName=myComboBox}">
+        </ComboBox>
+    </StackPanel>
+</UserControl>

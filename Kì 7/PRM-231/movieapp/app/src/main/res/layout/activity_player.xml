@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_700"
+    >
+    <com.google.android.exoplayer2.ui.PlayerView
+        android:id="@+id/player"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:use_controller="true"
+        android:background="@android:color/background_dark"
+        app:player_layout_id="@layout/exo_player_view"
+        app:controller_layout_id="@layout/custom_controller" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="@dimen/_62sdp"
+        android:layout_height="@dimen/_62sdp"
+        android:layout_centerInParent="true" />
+
+    <LinearLayout
+        android:id="@+id/sect_ad_countdown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="@dimen/_9sdp"
+        android:layout_marginBottom="@dimen/_54sdp"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/_12sdp"
+        android:paddingTop="@dimen/_8sdp"
+        android:paddingRight="@dimen/_12sdp"
+        android:paddingBottom="@dimen/_8sdp"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tx_ad_countdown"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ad in 5"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_16sdp" />
+    </LinearLayout>
+</RelativeLayout>

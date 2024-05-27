@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="@dimen/_31sdp">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottie"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_154sdp"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/introsplash" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_23sdp"
+        android:fontFamily="@font/potta_one"
+        android:text="Welcome"
+        android:textColor="#944d89"
+        android:textSize="@dimen/_35sdp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/potta_one"
+        android:text="Create a new account"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_13sdp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_intro_signin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_31sdp"
+        android:background="@drawable/btn_intro"
+        android:text="Login"
+        android:textColor="#FFF"
+        android:textSize="@dimen/_14sdp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_intro_signup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:background="@drawable/btn_intro"
+        android:text="Register"
+        android:textColor="#FFF"
+        android:textSize="@dimen/_14sdp"
+        android:textStyle="bold" />
+
+</LinearLayout>

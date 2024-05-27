@@ -1,0 +1,20 @@
+﻿HostelWPFApp
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\
+HostelWPFApp
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\App.xaml
+15-2118029690
+
+301835189822
+225199988278
+Layouts\BillFormDialog.xaml;Layouts\BillPage.xaml;Layouts\ContractFormDialog.xaml;Layouts\ContractPage.xaml;Layouts\CustomerFormDialog.xaml;Layouts\CustomerPage.xaml;Layouts\Dashboard.xaml;Layouts\RoomFormDialog.xaml;Layouts\RoomPage.xaml;Layouts\ServiceFormDialog.xaml;Layouts\ServicePage.xaml;MainWindow.xaml;UserControls\MyComboBox.xaml;UserControls\MyDatePicker.xaml;UserControls\MyTextBox.xaml;
+
+True
+

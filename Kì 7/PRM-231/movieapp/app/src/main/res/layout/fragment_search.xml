@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnShowMore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_62sdp"
+        android:background="@drawable/bg_rounded_showmore"
+        android:padding="@dimen/_9sdp"
+        android:text="Show More"
+        android:textColor="#FFFFFF"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimaryDark"
+        android:fitsSystemWindows="true">
+
+        <com.github.florent37.diagonallayout.DiagonalLayout
+            android:id="@+id/diagonalLayoutSearchFragment"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_192sdp"
+            app:diagonal_angle="10"
+            app:diagonal_direction="left"
+            app:diagonal_position="bottom">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/design_header"
+                android:orientation="vertical"
+                android:scaleType="fitXY">
+
+            </LinearLayout>
+
+        </com.github.florent37.diagonallayout.DiagonalLayout>
+
+        <include layout="@layout/toolbar_main" />
+
+        <androidx.coordinatorlayout.widget.CoordinatorLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/toolbar">
+
+            <FrameLayout
+                android:id="@+id/frameLayoutSearchFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </FrameLayout>
+
+        </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+    </RelativeLayout>
+
+    <include
+        layout="@layout/toolbar_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar">
+
+        <com.github.florent37.diagonallayout.DiagonalLayout
+            android:id="@+id/diagonalLayout"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_192sdp"
+            app:diagonal_angle="10"
+            app:diagonal_direction="left"
+            app:diagonal_position="bottom">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/design_header"
+                android:orientation="vertical"
+                android:scaleType="fitXY">
+
+                <SearchView
+                    android:id="@+id/svSearch"
+                    android:layout_width="@dimen/_269sdp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_18sdp"
+                    android:background="@drawable/bg_search"
+                    android:iconifiedByDefault="false"
+                    android:paddingStart="@dimen/_minus8sdp"
+                    android:searchIcon="@drawable/ic_search"
+                    android:theme="@style/SearchView"
+                    app:queryBackground="@android:color/transparent" />
+
+                <TextView
+                    android:id="@+id/tvResultSearch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:textColor="#FFFFFF"
+                    android:textSize="25sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+        </com.github.florent37.diagonallayout.DiagonalLayout>
+
+        <FrameLayout
+            android:id="@+id/containerSearch"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rcvSearchItem"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_442sdp"
+                android:layout_marginTop="@dimen/_62sdp">
+
+            </androidx.recyclerview.widget.RecyclerView>
+        </FrameLayout>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

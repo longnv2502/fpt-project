@@ -1,0 +1,88 @@
+﻿<Window x:Class="HostelWPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HostelWPFApp"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="MainWindow" Height="910" Width="1399" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize" Background="{x:Null}" AllowsTransparency="True" Loaded="Window_Loaded">
+    <Grid>
+        <materialDesign:DialogHost Identifier="RootDialog" 
+                                   Panel.ZIndex="999"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   CloseOnClickAway="True"
+                                   DialogTheme="Inherit">
+        </materialDesign:DialogHost>
+        <materialDesign:Card Margin="10" UniformCornerRadius="30">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="90"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.Resources>
+                    <Style TargetType="materialDesign:PackIcon">
+                        <Setter Property="Width" Value="30"></Setter>
+                        <Setter Property="Height" Value="30"></Setter>
+                    </Style>
+                </Grid.Resources>
+                <Grid Grid.Column="0">
+                    <ListView Margin="0 15">
+                        <ListViewItem HorizontalAlignment="Center" Margin="0 40 0 10">
+                            <Button x:Name="btnContract" Style="{StaticResource MaterialDesignFloatingActionButton}" HorizontalAlignment="Left"
+                                   BorderBrush="{x:Null}" Background="{x:Null}" Foreground="Black" Click="btnContract_Click">
+                                <StackPanel Margin="-5">
+                                    <materialDesign:PackIcon Kind="Notebook"></materialDesign:PackIcon>
+                                </StackPanel>
+                            </Button>
+                        </ListViewItem>
+                        <ListViewItem HorizontalAlignment="Center" Margin="0 ">
+                            <Button x:Name="btnCustomer" Style="{StaticResource MaterialDesignFloatingActionButton}" HorizontalAlignment="Left"
+                                   BorderBrush="{x:Null}" Background="{x:Null}" Foreground="Black" Click="btnCustomer_Click">
+                                <StackPanel Margin="-5">
+                                    <materialDesign:PackIcon Kind="Account"></materialDesign:PackIcon>
+                                </StackPanel>
+                            </Button>
+                        </ListViewItem>
+                        <ListViewItem HorizontalAlignment="Center" Margin="0 10">
+                            <Button x:Name="btnRoom" Style="{StaticResource MaterialDesignFloatingActionButton}" HorizontalAlignment="Left"
+                                   BorderBrush="{x:Null}" Background="{x:Null}" Foreground="Black" Click="btnRoom_Click">
+                                <StackPanel Margin="-5">
+                                    <materialDesign:PackIcon Kind="ScaleBathroom"></materialDesign:PackIcon>
+                                </StackPanel>
+                            </Button>
+                        </ListViewItem>
+                        <ListViewItem HorizontalAlignment="Center" Margin="0 ">
+                            <Button x:Name="btnBill" Style="{StaticResource MaterialDesignFloatingActionButton}" HorizontalAlignment="Left"
+                                   BorderBrush="{x:Null}" Background="{x:Null}" Foreground="Black" Click="btnBill_Click">
+                                <StackPanel Margin="-5">
+                                    <materialDesign:PackIcon Kind="Newspaper"></materialDesign:PackIcon> 
+                                </StackPanel>
+                            </Button>
+                        </ListViewItem>
+                        <ListViewItem HorizontalAlignment="Center" Margin="0 10">
+                            <Button x:Name="btnService" Style="{StaticResource MaterialDesignFloatingActionButton}" HorizontalAlignment="Left"
+                                   BorderBrush="{x:Null}" Background="{x:Null}" Foreground="Black" Click="btnService_Click">
+                                <StackPanel Margin="-5">
+                                    <materialDesign:PackIcon Kind="EqualiserVertical"></materialDesign:PackIcon>
+                                </StackPanel>
+                            </Button>
+                        </ListViewItem>
+                        <ListViewItem HorizontalAlignment="Center" Margin="0 60 0 0">
+                            <Button Style="{StaticResource MaterialDesignFloatingActionButton}" HorizontalAlignment="Left"
+                                   BorderBrush="{x:Null}" Background="{x:Null}" Foreground="Black" x:Name="btnExit" Click="btnExit_Click">
+                                <StackPanel Margin="-5">
+                                    <materialDesign:PackIcon Kind="ExitToApp"></materialDesign:PackIcon>
+                                </StackPanel>
+                            </Button>
+                        </ListViewItem>
+                    </ListView>
+                </Grid>
+                <Grid Grid.Column="1" Background="#F6F5F8" Name="RenderPages">
+
+                </Grid>
+            </Grid>
+        </materialDesign:Card>
+    </Grid>
+</Window>

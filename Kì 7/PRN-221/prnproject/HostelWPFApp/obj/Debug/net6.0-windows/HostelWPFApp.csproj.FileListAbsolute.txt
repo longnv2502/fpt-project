@@ -1,0 +1,186 @@
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.csproj.AssemblyReference.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ContractFormDialog.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ContractPage.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\Dashboard.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ServiceFormDialog.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ServicePage.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\UserControls\MyComboBox.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\UserControls\MyDatePicker.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\UserControls\MyTextBox.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp_MarkupCompile.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp_MarkupCompile.lref
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\HostelWPFApp.exe
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\HostelWPFApp.deps.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\HostelWPFApp.runtimeconfig.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\HostelWPFApp.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\HostelWPFApp.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\SimpleModel.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\DataAccess.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\bin\Debug\net6.0-windows\DataAccess.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\App.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ContractFormDialog.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ContractPage.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\Dashboard.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ServiceFormDialog.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ServicePage.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\UserControls\MyComboBox.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\UserControls\MyDatePicker.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\UserControls\MyTextBox.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.g.resources
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.AssemblyInfoInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.AssemblyInfo.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.csproj.CopyComplete
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\refint\HostelWPFApp.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.genruntimeconfig.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\ref\HostelWPFApp.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\HostelWPFApp.exe
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\appsettings.json
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\HostelWPFApp.deps.json
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\HostelWPFApp.runtimeconfig.json
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\HostelWPFApp.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\HostelWPFApp.pdb
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\SimpleModel.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\DataAccess.dll
+D:\prnproject\HostelWPFApp\bin\Debug\net6.0-windows\DataAccess.pdb
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.csproj.AssemblyReference.cache
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ContractFormDialog.g.cs
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ContractPage.g.cs
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\Dashboard.g.cs
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ServiceFormDialog.g.cs
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ServicePage.g.cs
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\UserControls\MyComboBox.g.cs
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\UserControls\MyDatePicker.g.cs
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\UserControls\MyTextBox.g.cs
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\App.g.cs
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp_MarkupCompile.cache
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp_MarkupCompile.lref
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\App.baml
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ContractFormDialog.baml
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ContractPage.baml
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\Dashboard.baml
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ServiceFormDialog.baml
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\ServicePage.baml
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\MainWindow.baml
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\UserControls\MyComboBox.baml
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\UserControls\MyDatePicker.baml
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\UserControls\MyTextBox.baml
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.g.resources
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.AssemblyInfoInputs.cache
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.AssemblyInfo.cs
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.csproj.CoreCompileInputs.cache
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.csproj.CopyComplete
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.dll
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\refint\HostelWPFApp.dll
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.pdb
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\HostelWPFApp.genruntimeconfig.cache
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\ref\HostelWPFApp.dll
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\BillPage.g.cs
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\BillPage.baml
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\BillFormDialog.g.cs
+D:\prnproject\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\BillFormDialog.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\BillFormDialog.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\BillPage.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\CustomerFormDialog.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\CustomerPage.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\RoomFormDialog.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\RoomPage.g.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\BillFormDialog.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\BillPage.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\CustomerFormDialog.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\CustomerPage.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\RoomFormDialog.baml
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Debug\net6.0-windows\Layouts\RoomPage.baml

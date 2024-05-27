@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="HostelWPFApp.UserControls.MyTextBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HostelWPFApp.UserControls"
+             mc:Ignorable="d"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             d:DesignWidth="200" d:Background="White" Name="myTextBox">
+    <StackPanel Margin="20 10">
+        <TextBlock Text="{Binding Path=Caption,ElementName=myTextBox}" Foreground="#97A5B4" FontSize="13" Margin="4 0 0 12"/>
+        <TextBox
+            Name="textBoxField"
+            Text="{Binding Path=Text,ElementName=myTextBox}"
+            materialDesign:HintAssist.Hint="{Binding Path=Hint,ElementName=myTextBox}"
+            Style="{StaticResource MaterialDesignOutlinedTextBox}">
+        </TextBox>
+    </StackPanel>
+</UserControl>

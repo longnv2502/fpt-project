@@ -1,0 +1,20 @@
+﻿HostelWPFApp
+
+
+winexe
+C#
+.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\obj\Release\net6.0-windows\
+HostelWPFApp
+none
+false
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\HostelWPFApp\App.xaml
+7-1109240082
+
+13-1153884402
+2251086419516
+Layouts\ContractFormPage.xaml;Layouts\ContractPage.xaml;Layouts\Dashboard.xaml;MainWindow.xaml;UserControls\MyComboBox.xaml;UserControls\MyDatePicker.xaml;UserControls\MyTextBox.xaml;
+
+True
+

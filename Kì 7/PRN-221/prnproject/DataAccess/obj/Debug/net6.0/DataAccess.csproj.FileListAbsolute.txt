@@ -1,0 +1,30 @@
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\bin\Debug\net6.0\appsettings.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\dclon\OneDrive - 1gtfy6\Documents\FPT_University\23_SPR\PRN221\Project\HostelManager\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\prnproject\DataAccess\bin\Debug\net6.0\appsettings.json
+D:\prnproject\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\prnproject\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\prnproject\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\prnproject\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\prnproject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\prnproject\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\prnproject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\prnproject\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\prnproject\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\prnproject\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\prnproject\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\prnproject\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\prnproject\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\prnproject\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
